@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "4916b3df-18cb-40c2-8242-f12ab1e90090",
-		"name": "Selling Partner API for Direct Fulfillment Shipping",
+		"name": "test two way sync Selling Partner API for Direct Fulfillment Shipping",
 		"description": "The Selling Partner API for Direct Fulfillment Shipping provides programmatic access to a direct fulfillment vendor's shipping data.\n\nContact Support:\n Name: Selling Partner API Developer Support",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "4760484-4916b3df-18cb-40c2-8242-f12ab1e90090"
